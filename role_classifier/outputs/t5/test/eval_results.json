@@ -1,0 +1,15 @@
+{
+    "eval_Answer": 0.5182724252491694,
+    "eval_Answer(Summary)": 0.6063348416289593,
+    "eval_Answer-Example": 0.7102803738317757,
+    "eval_Answer-Organizationalsentence": 0.6666666666666666,
+    "eval_AuxiliaryInformation": 0.396551724137931,
+    "eval_Miscellaneous": 0.759493670886076,
+    "eval_accuracy": 0.572463768115942,
+    "eval_loss": 0.3848353922367096,
+    "eval_macro_f1": 0.6095999504000963,
+    "eval_runtime": 1206.0149,
+    "eval_samples": 62,
+    "eval_samples_per_second": 0.051,
+    "eval_steps_per_second": 0.007
+}
